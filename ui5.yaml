@@ -4,3 +4,4 @@ metadata:
 type: application
 framework:
   name: SAPUI5
+  version: "1.85.2"
